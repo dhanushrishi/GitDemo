@@ -7,10 +7,20 @@ public class restapi {
 
 		
 		System.out.println("post");
+		
 		System.out.println("post1");
 		System.out.println("post2");
 		
 		
+		
+		
+		System.out.println("post3");
+		System.out.println("post4");
+		System.out.println("post5");
+		
+		System.out.println("post");
+		System.out.println("post1");
+		System.out.println("post2");
 	}
 
 }
