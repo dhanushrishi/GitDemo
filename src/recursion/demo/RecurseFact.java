@@ -7,9 +7,7 @@ public class RecurseFact {
 		
 		RecurseFact nw= new RecurseFact();
 		System.out.println(fact(4));
-		System.out.println(" ");
-		System.out.println("hello");
-		System.out.println("how are you");
+		
 		
 	}
     
