@@ -23,33 +23,7 @@ public class RecurseFact {
 			
 		}
 	
-		public static int fact(int no) {
-			if(no==1) {
-				return 1;
-			}
-			else {
-				return no * fact(no-1);
-			//	4*3*2*
-				
-			}
-			public static int fact(int no) {
-				if(no==1) {
-					return 1;
-				}
-				else {
-					return no * fact(no-1);
-				//	4*3*2*
-					
-				}
-				public static int fact(int no) {
-					if(no==1) {
-						return 1;
-					}
-					else {
-						return no * fact(no-1);
-					//	4*3*2*
-						
-					}
+		
 		
 	}
 	
