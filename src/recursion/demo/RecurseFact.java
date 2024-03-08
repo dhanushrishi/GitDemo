@@ -7,7 +7,7 @@ public class RecurseFact {
 		
 		RecurseFact nw= new RecurseFact();
 		System.out.println(fact(4));
-		
+		hello bye;
 		
 	}
     
