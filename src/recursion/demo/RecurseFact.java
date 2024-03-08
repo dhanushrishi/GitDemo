@@ -20,7 +20,11 @@ public class RecurseFact {
 		//	4*3*2*
 			
 		}
-		
+	
+	public void fact11() {
+		System.out.println("dhanush hi 123");
+		System.out.println("my name is dhanush urs pls");
+		}	
 		
 	}
 	
