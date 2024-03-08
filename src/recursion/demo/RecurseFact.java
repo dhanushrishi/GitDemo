@@ -25,7 +25,19 @@ public class RecurseFact {
 		System.out.println("dhanush hi 123");
 		System.out.println("my name is dhanush urs pls");
 		}	
-		
+	
+	public void fact11() {
+		System.out.println("dhanush hi 123");
+		System.out.println("my name is dhanush urs pls");
+		}
+	public void fact11() {
+		System.out.println("dhanush hi 123");
+		System.out.println("my name is dhanush urs pls");
+		}
+	public void fact11() {
+		System.out.println("dhanush hi 123");
+		System.out.println("my name is dhanush urs pls");
+		}
 	}
 	
 	
