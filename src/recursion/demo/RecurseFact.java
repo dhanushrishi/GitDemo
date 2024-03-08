@@ -7,9 +7,7 @@ public class RecurseFact {
 		
 		RecurseFact nw= new RecurseFact();
 		System.out.println(fact(4));
-		System.out.println(" ");
-		System.out.println("hello");
-		System.out.println("how are you");
+		
 		
 	}
     
@@ -22,8 +20,11 @@ public class RecurseFact {
 		//	4*3*2*
 			
 		}
-	dhanush hi 123
-		
+	
+	public void fact11() {
+		System.out.println("dhanush hi 123");
+		System.out.println("my name is dhanush urs pls");
+		}	
 		
 	}
 	
