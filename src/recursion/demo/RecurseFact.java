@@ -7,7 +7,7 @@ public class RecurseFact {
 		
 		RecurseFact nw= new RecurseFact();
 		System.out.println(fact(4));
-		hello bye;
+		
 		
 	}
     
@@ -30,7 +30,18 @@ public class RecurseFact {
 			//	4*3*2*
 				
 			}
-			
+		
+
+			public static int fact(int no) {
+				if(no==1) {
+					return 1;
+				}
+				else {
+					return no * fact(no-1);
+				//	4*3*2*
+					
+				}
+				
 		
 	}
 	
